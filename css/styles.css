@@ -128,8 +128,8 @@ body{
 }
 /*-------board-------*/
 .board {
-  height: 1000px;
-  width: 1000px;
+  height: 1200px;
+  width: 1200px;
   border: 2px solid #9dbca6 ;
   margin-left: auto;
   margin-right: auto;
@@ -148,8 +148,8 @@ body{
 .tile {
   display: block;
   border-radius: 4px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-image: url("../img/woodtile.jpg");
   background-position: center;
   margin: 6px;
@@ -158,11 +158,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/tulip.png");
+  background-image: url("../img/whileLoop.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -170,11 +170,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/peonie.png");
+  background-image: url("../img/break.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -182,11 +182,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/daisy.png");
+  background-image: url("../img/bytecode.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -194,11 +194,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/orchid.png");
+  background-image: url("../img/continue.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -206,11 +206,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/snapdragon.png");
+  background-image: url("../img/doWhileLoop.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -218,11 +218,11 @@ body{
   display: block;
   border-radius: 8px;
   color: white;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/rose.png");
+  background-image: url("../img/java.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -230,11 +230,11 @@ body{
   display: block;
   color: white;
   border-radius: 8px;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/dahlia.png");
+  background-image: url("../img/javaClass.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
@@ -242,23 +242,11 @@ body{
   display: block;
   border-radius: 6px;
   color: white;
-  height: 150px;
-  width: 150px;
+  height: 200px;
+  width: 200px;
   background-color: white;
   margin: 6px;
-  background-image: url("../img/poppy.png");
-  background-size: 150px 150px;
-  background-repeat: no-repeat;
-}
-.img-H {
-  display: block;
-  border-radius: 6px;
-  color: white;
-  height: 150px;
-  width: 150px;
-  background-color: white;
-  margin: 6px;
-  background-image: url("../img/poppy.png");
+  background-image: url("../img/sourceCode.jpg");
   background-size: 150px 150px;
   background-repeat: no-repeat;
 }
